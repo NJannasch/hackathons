@@ -2,19 +2,21 @@
 Overview of my projects on hackathons
 
 ## 2020
-
-- BCX20 - Bosch Connected Experience 2020
-  - Europe’s largest IoT hackathon
-  - Project:
-    - Tbd.
-  - Technology:  
   
 - #Fiction2Science Hannover
   - Smart Workplace Challenge
   - Project:
     - Tbd.
   - Technology: 
-    
+
+- BCX20 - Bosch Connected Experience 2020
+  - Europe’s largest IoT hackathon
+  - Project:
+    - Place 2 Be (Semi-Finalist)
+      - Multi-criteria apartment search that takes into account public infrastructure and more to minimize commuting time based on your locations.
+  - Technology:  
+    - Python (Starlette), AWS (EC2, S3), React, Sketch, ImmobilienScout24, HERE Technologies
+
 ## 2019
 - BCX19 - Bosch Connected Experience 2019
   - Europe’s largest IoT hackathon
