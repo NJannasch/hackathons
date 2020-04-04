@@ -3,7 +3,7 @@ Overview of my Hackathon projects
 
 ## 2020
 - [#WirVsVirus Hackathon](https://wirvsvirushackathon.org/)
-  - Hackathon of the Federal Government in Germany with 43.000 participants - Gamification track
+  - Hackathon of the Federal Government in Germany with 43000 participants - Gamification track
   - Project:
     - [Unplague](https://unplague.de) (Top 14% project 🏅)
       - Fight Corona with toilet paper and stop its further spread
@@ -41,7 +41,7 @@ Overview of my Hackathon projects
 
 ## 2017
 - [Do!Hack](https://dohack.io/)
-  - 🥈 2nd Place
+  - 🏅 3nd Place
   - Project Scope:
     - Use your time more efficiently by being notified X minutes before your appointment.
       Thanks to our adaptive technology, you will never waste your time waiting for your appointment again.
